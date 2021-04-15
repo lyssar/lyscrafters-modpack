@@ -1,6 +1,6 @@
-<div style="text-align: center; width:100%;">
+<p align="center">
     <img src="assets/logo.png?raw=true" alt="LysCrafters" title="LysCrafters" style="width: 100px">
-</div>
+</p>
 
 # LysCrafters - A RPG styled modpack centered around create
 
