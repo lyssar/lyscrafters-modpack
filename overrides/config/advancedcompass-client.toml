@@ -1,0 +1,33 @@
+
+[advancedcompass]
+	#Vertical offset from top edge of the screen (from 0 to 50)
+	#Range: 0 ~ 50
+	yOffset = 4
+	#Maximum distance to entity for rendering (from 0 to 999)
+	#Range: 0 ~ 999
+	maxDistance = 50
+	#Maximum radius to merge entity into groups (from 5 to 15)
+	#Range: 5 ~ 15
+	groupRadius = 10
+	#Angle of view that fits into the compass (from 30 to 360)
+	#Range: 30 ~ 360
+	viewAngle = 70
+	#Angle threshold for rendering icons (from 15 to 180)
+	#Range: 15 ~ 180
+	angleThreshold = 90
+	#Move vanilla bossbar below the compass
+	moveBossbar = true
+	#Merge entities into groups
+	groupEntities = true
+	#Show distance
+	showDistance = true
+	#Show players
+	showPlayers = true
+	#Hide overlapped icons
+	hideOverlapped = true
+	#Overlap threshold
+	#Range: 0 ~ 10
+	overlapThreshold = 4
+	#Create waypoint on death
+	autoDeathWaypoint = true
+
