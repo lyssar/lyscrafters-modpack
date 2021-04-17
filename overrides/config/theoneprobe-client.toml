@@ -59,9 +59,9 @@ boxTopY = -1
 #Range: -1 ~ 10000
 boxBottomY = -1
 #Color of the border of the box (0 to disable)
-boxBorderColor = "ff999999"
+boxBorderColor = "ffffffff"
 #Color of the box (0 to disable)
-boxFillColor = "55006699"
+boxFillColor = "ff000000"
 #Thickness of the border of the box (0 to disable)
 #Range: 0 ~ 20
 boxThickness = 2
@@ -76,7 +76,7 @@ isVisible = true
 holdKeyToMakeVisible = false
 #The scale of the tooltips, 1 is default, 2 is smaller
 #Range: 0.4 ~ 5.0
-tooltipScale = 1.100000023841858
+tooltipScale = 1.2000000476837158
 #Color of the border of the chest contents box (0 to disable)
 chestContentsBorderColor = "ff006699"
 #0 means don't show break progress, 1 is show as bar, 2 is show as text
@@ -87,25 +87,25 @@ harvestStyleVanilla = true
 
 [style]
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	Warning = "yellow"
+	Warning = "white"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	Error = "red,bold"
+	Error = "white,underline"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
 	Progress = "white"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	Ok = "green"
+	Ok = "white"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
 	Info = "white"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	Name = "white"
+	Name = "white,bold"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	Label = "gray"
+	Label = "white,underline"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	ModName = "blue,italic"
+	ModName = "white,italic"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	InfoImportant = "blue"
+	InfoImportant = "white,bold"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	Obsolete = "gray,strikethrough"
+	Obsolete = "white,strikethrough"
 	#Text style. Use a comma delimited list with colors like: 'red', 'green', 'blue', ... or style codes like 'underline', 'bold', 'italic', 'strikethrough', ..."
-	High = "gold"
+	High = "white"
 
