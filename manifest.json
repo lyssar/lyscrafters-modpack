@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "LysCrafters",
-  "version": "2.0.0-alpha",
+  "version": "2.0.0-alpha-2",
   "author": "",
   "files": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "projectID": 466792,
-      "fileID": 3264520,
+      "fileID": 3288474,
       "required": true
     },
     {
@@ -85,6 +85,11 @@
       "required": true
     },
     {
+      "projectID": 222880,
+      "fileID": 3248150,
+      "required": true
+    },
+    {
       "projectID": 404465,
       "fileID": 3237039,
       "required": true
@@ -100,18 +105,28 @@
       "required": true
     },
     {
+      "projectID": 69162,
+      "fileID": 3249453,
+      "required": true
+    },
+    {
       "projectID": 363820,
       "fileID": 3285909,
       "required": true
     },
     {
       "projectID": 462421,
-      "fileID": 3269827,
+      "fileID": 3288828,
       "required": true
     },
     {
       "projectID": 451839,
       "fileID": 3246127,
+      "required": true
+    },
+    {
+      "projectID": 397255,
+      "fileID": 3280940,
       "required": true
     },
     {
@@ -132,11 +147,6 @@
     {
       "projectID": 235729,
       "fileID": 3191715,
-      "required": true
-    },
-    {
-      "projectID": 312040,
-      "fileID": 3067125,
       "required": true
     },
     {
@@ -165,11 +175,6 @@
       "required": true
     },
     {
-      "projectID": 405076,
-      "fileID": 3281689,
-      "required": true
-    },
-    {
       "projectID": 258587,
       "fileID": 3285731,
       "required": true
@@ -192,6 +197,11 @@
     {
       "projectID": 377794,
       "fileID": 3261542,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3241077,
       "required": true
     },
     {
@@ -227,6 +237,11 @@
     {
       "projectID": 394535,
       "fileID": 3278995,
+      "required": true
+    },
+    {
+      "projectID": 445226,
+      "fileID": 3217636,
       "required": true
     },
     {
@@ -310,6 +325,11 @@
       "required": true
     },
     {
+      "projectID": 241967,
+      "fileID": 3226248,
+      "required": true
+    },
+    {
       "projectID": 400714,
       "fileID": 3197360,
       "required": true
@@ -320,13 +340,13 @@
       "required": true
     },
     {
-      "projectID": 282639,
-      "fileID": 3281812,
+      "projectID": 324973,
+      "fileID": 3160501,
       "required": true
     },
     {
-      "projectID": 324973,
-      "fileID": 3160501,
+      "projectID": 239197,
+      "fileID": 3288283,
       "required": true
     },
     {
@@ -426,7 +446,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 3181401,
+      "fileID": 3287102,
       "required": true
     },
     {
@@ -435,13 +455,13 @@
       "required": true
     },
     {
-      "projectID": 236484,
-      "fileID": 3224148,
+      "projectID": 389665,
+      "fileID": 3245380,
       "required": true
     },
     {
-      "projectID": 389665,
-      "fileID": 3245380,
+      "projectID": 250419,
+      "fileID": 3285665,
       "required": true
     },
     {
@@ -546,7 +566,7 @@
     },
     {
       "projectID": 60028,
-      "fileID": 3216633,
+      "fileID": 3287743,
       "required": true
     },
     {
@@ -641,7 +661,7 @@
     },
     {
       "projectID": 238891,
-      "fileID": 3248516,
+      "fileID": 3288746,
       "required": true
     },
     {
@@ -656,7 +676,7 @@
     },
     {
       "projectID": 441647,
-      "fileID": 3278968,
+      "fileID": 3288042,
       "required": true
     },
     {
@@ -695,13 +715,18 @@
       "required": true
     },
     {
+      "projectID": 368718,
+      "fileID": 3273254,
+      "required": true
+    },
+    {
       "projectID": 428877,
       "fileID": 3222673,
       "required": true
     },
     {
       "projectID": 74072,
-      "fileID": 3281505,
+      "fileID": 3288197,
       "required": true
     }
   ],
