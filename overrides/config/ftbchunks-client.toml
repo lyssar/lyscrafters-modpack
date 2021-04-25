@@ -1,11 +1,11 @@
 #Noise added to map to make it look less plastic
 #Range: 0.0 ~ 0.5
-noise = 0.05000000074505806
+noise = 0.05
 #Shadow intensity
 #Range: 0.0 ~ 0.3
-shadows = 0.10000000149011612
+shadows = 0.1
 #Chunk grid overlay in large map
-chunk_grid = true
+chunk_grid = false
 #Reduces color palette to 256 colors
 reduced_color_palette = false
 #Color intensity
@@ -30,7 +30,7 @@ water_height_factor = 8
 minimap = "TOP_RIGHT"
 #Scale of minimap
 #Range: 0.25 ~ 4.0
-minimap_scale = 1.25
+minimap_scale = 1.0
 #Minimap will not rotate
 minimap_locked_north = true
 #Show waypoints on minimap
@@ -57,5 +57,5 @@ minimap_visibility = 255
 #Show zone (claimed chunk or wilderness) under minimap
 minimap_zone = true
 #Enables debug info
-debug_info = true
+debug_info = false
 

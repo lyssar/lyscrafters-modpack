@@ -1,0 +1,61 @@
+<book title="LysCrafter Instructions" cover="gbook:covers/default" fontSize="0.6" home="0:0"
+      xmlns="http://localhost/gbook/base"
+      xmlns:minecraft="http://localhost/gbook/minecraft-addons">
+
+    <include ref="gbook:xml/standard.xml"/>
+
+    <chapter>
+        <section>
+            <!--
+            'p' tags draw text, and increment the vertical offset.
+            They do NOT behave exactly like in html.
+            The space attribute changes the default spacing added after the paragraph.
+            -->
+            <p color="#606060" space="8">This book is a work in progress.</p>
+            <p color="#606060">A web-based version of the documentation is available in the wiki on the github project.</p>
+
+            <section-break />
+
+            <!--
+            'space' tags increment the vertical offset without drawing text.
+            The 'height' attribute specifies how much.
+            The % refers to a % of the section's height, while integer values refer to pixels.
+            -->
+            <space height="33%" />
+
+            <p space="0" align="center" scale="2">Welcome</p>
+            <p space="0" align="center" scale="2">to</p>
+            <p space="0" align="center" scale="2">LysCrafters</p>
+            <p space="6" align="center" scale="2">__________</p>
+            <p align="center" scale="1.5">by lyssar</p>
+            <p align="center" scale="1.5"><![CDATA[twitch.tv/lyssar_]]></p>
+        </section>
+
+        <section>
+            <page_title>
+                <title>Index</title>
+            </page_title>
+            <link ref="START">1. How to get started in LysCrafters 2.0</link>
+            <link indent="8" ref="START:hurryup">1.1. Hurry up or die!</link>
+        </section>
+    </chapter>
+    <chapter id="START">
+        <section>
+            <page_title>
+                <title>How to get started in LysCrafters 2.0</title>
+            </page_title>
+            <p>You can not build standard wooden tools in this mod.</p>
+            <p>So in order to get going you need to find a few things</p>
+            <p>oh and make sure to get it fast because you will die to thirst or hunger!</p>
+            <link indent="8" ref="START:hurryup">So HURRY UP!</link>
+        </section>
+        <section id="hurryup">
+            <page_title>
+                <title>1.1. Hurry up or die!</title>
+            </page_title>
+            <p>You need flint, which comes out of gravel</p>
+            <p>You need sticks which will be dropped from leaves</p>
+            <p>Go and find at least 2 flint and 2 sticks!</p>
+        </section>
+    </chapter>
+</book>

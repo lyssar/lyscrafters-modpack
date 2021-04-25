@@ -1,5 +1,0 @@
-
-[enableGui]
-	#Set to false to disable the custom gui.
-	enableGui = true
-

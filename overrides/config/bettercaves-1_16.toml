@@ -23,7 +23,7 @@
 			# Percent chance of caves spawning in a given region.
 			# Default: caves spawn in 100% of regions.
 			#Range: 0.0 ~ 100.0
-			"Cave Spawn Chance" = 100.0
+			"Cave Spawn Chance" = 10.0
 			# Determines how large cave regions are.
 			#     Controls the average size of a cave system.
 			# Accepted values: Small, Medium, Large, ExtraLarge, Custom
@@ -47,11 +47,11 @@
 				# The minimum y-coordinate at which type 1 caves can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Type 1 Cave Minimum Altitude" = 1
+				"Type 1 Cave Minimum Altitude" = 25
 				# The maximum y-coordinate at which type 1 caves can generate.
 				# Default: 80
 				#Range: 0 ~ 255
-				"Type 1 Cave Maximum Altitude" = 80
+				"Type 1 Cave Maximum Altitude" = 65
 				# The depth from a given point on the surface at which type 1 caves start to close off.
 				#     Will use the Max Cave Altitude instead of surface height if it is lower.
 				#     Will use the Max Cave Altitude no matter what if Override Surface Detection is enabled.
@@ -69,7 +69,7 @@
 				# Determines how frequently Type 1 Caves spawn. 0 = will not spawn at all.
 				# Default: 10
 				#Range: 0 ~ 10
-				"Type 1 Cave Priority" = 10
+				"Type 1 Cave Priority" = 4
 
 			###########################################################################################################
 			## Settings used in the generation of type 2 caves, which tend to be more open and spacious.
@@ -78,11 +78,11 @@
 				# The minimum y-coordinate at which type 2 caves can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Type 2 Cave Minimum Altitude" = 1
+				"Type 2 Cave Minimum Altitude" = 25
 				# The maximum y-coordinate at which type 2 caves can generate.
 				# Default: 80
 				#Range: 0 ~ 255
-				"Type 2 Cave Maximum Altitude" = 80
+				"Type 2 Cave Maximum Altitude" = 65
 				# The depth from a given point on the surface at which type 2 caves start to close off.
 				#     Will use the Max Cave Altitude instead of surface height if it is lower.
 				#     Will use the Max Cave Altitude no matter what if Override Surface Detection is enabled.
@@ -100,7 +100,7 @@
 				# Determines how frequently Type 2 Caves spawn. 0 = will not spawn at all.
 				# Default: 5
 				#Range: 0 ~ 10
-				"Type 2 Cave Priority" = 5
+				"Type 2 Cave Priority" = 0.2
 
 			###########################################################################################################
 			## Settings used in the generation of vanilla-like caves near the surface.
@@ -120,7 +120,7 @@
 				# The density of surface caves. Higher = more caves, closer together. 
 				# Default: 17
 				#Range: 0 ~ 100
-				"Surface Cave Density" = 17
+				"Surface Cave Density" = 6
 
 			###########################################################################################################
 			## Settings controlling vanilla Minecraft cave generation.
@@ -150,7 +150,7 @@
 			# Percent chance of caverns spawning in a given region.
 			# Default: caverns spawn in 25% of regions.
 			#Range: 0.0 ~ 100.0
-			"Cavern Spawn Chance" = 25.0
+			"Cavern Spawn Chance" = 5.0
 			# Determines how large cavern regions are. This controls the average size of caverns.
 			# Accepted values: Small, Medium, Large, ExtraLarge, Custom
 			# Default: Small (recommended).
@@ -173,12 +173,12 @@
 				# The minimum y-coordinate at which Liquid Caverns can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Liquid Cavern Minimum Altitude" = 1
+				"Liquid Cavern Minimum Altitude" = 25
 				# The maximum y-coordinate at which Liquid Caverns can generate.
 				#     Caverns will attempt to close off anyway if this value is greater than the surface's altitude.
 				# Default: 35
 				#Range: 0 ~ 255
-				"Liquid Cavern Maximum Altitude" = 35
+				"Liquid Cavern Maximum Altitude" = 55
 				# Stretches caverns vertically. Lower value = more open caverns with larger features.
 				# Default: 1.3
 				#Range: 0.0 ~ 100.0
@@ -190,7 +190,7 @@
 				# Determines how frequently Liquid Caverns spawn. 0 = will not spawn at all.
 				# Default: 10
 				#Range: 0 ~ 10
-				"Liquid Cavern Priority" = 10
+				"Liquid Cavern Priority" = 1
 
 			###########################################################################################################
 			## Settings used in the generation of Floored Caverns found at low altitudes.
@@ -200,12 +200,12 @@
 				# The minimum y-coordinate at which Floored Caverns can generate.
 				# Default: 1
 				#Range: 0 ~ 255
-				"Floored Cavern Minimum Altitude" = 1
+				"Floored Cavern Minimum Altitude" = 25
 				# The maximum y-coordinate at which Floored Caverns can generate.
 				#     Caverns will attempt to close off anyway if this value is greater than the surface's altitude.
 				# Default: 35
 				#Range: 0 ~ 255
-				"Floored Cavern Maximum Altitude" = 35
+				"Floored Cavern Maximum Altitude" = 55
 				# Stretches caverns vertically. Lower value = more open caverns with larger features.
 				# Default: 1.3
 				#Range: 0.0 ~ 100.0
@@ -217,7 +217,7 @@
 				# Determines how frequently Floored Caverns spawn. 0 = will not spawn at all.
 				# Default: 10
 				#Range: 0 ~ 10
-				"Floored Cavern Priority" = 10
+				"Floored Cavern Priority" = 1
 
 		###########################################################################################################
 		## Settings used in the generation of water regions.
@@ -226,10 +226,10 @@
 			# Percent chance of a region having water instead of lava at low altitudes.
 			# Default: 40%
 			#Range: 0.0 ~ 100.0
-			"Water Region Spawn Chance" = 40.0
+			"Water Region Spawn Chance" = 5.0
 			# Determines how large water regions are.
 			# Default: Medium (recommended).
-			"Water Region Size" = "Medium"
+			"Water Region Size" = "Small"
 			# Custom value for water region size. Smaller value = larger regions. This value is very sensitive to change.
 			#     ONLY WORKS IF Water Region Size IS Custom.
 			#     Provided values:

@@ -39,7 +39,7 @@
 		EntityDamageTickSpeed = 150
 		#Allowed Values: PLAYER, MONSTER, ANIMAL.
 		#Default: MONSTER,PLAYER
-		EntityTypes = "MONSTER,PLAYER"
+		EntityTypes = "MONSTER,PLAYER,ANIMAL"
 		#The amount of damage taken.
 		#Default is 0.5
 		#Range: 0.0 ~ 20.0
@@ -71,7 +71,7 @@
 			SnowAndIceBlockPlaceTickSpeed = 20
 			#Do blizzards destroy plants?
 			#Default: false
-			BlizzardsDestroyPlants = false
+			BlizzardsDestroyPlants = true
 
 		[Blizzard_Settings.World_Settings.Snow_Decay]
 			#Does snow and ice decay after blizzards in biomes within the specified temperature threshold?

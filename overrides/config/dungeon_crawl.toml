@@ -38,5 +38,5 @@
 	#If this is set to false, no dungeons can be generated outside the overworld.
 	ignore_dimension = false
 	#Makes the entire dungeon solid, preventing caves, ravines, etc... from interfering with the dungeon.
-	solid = false
+	solid = true
 
