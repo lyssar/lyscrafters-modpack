@@ -2,8 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## 1.2.0 (2021-04-17)
+## 2.0.0-alpha1 (2021-04-25)
 
+### Features
+
+* feat: added various configs and a few new mods ([c7502db](https://github.com/lyssar/lyscrafters-modpack/commit/c7502db94dce4eeeb4cc7c1081c34c6633bde21a))
+* feat: added the complete new mod and config list ([9b975ae](https://github.com/lyssar/lyscrafters-modpack/commit/9b975ae517e2e6786ab57693ecd98bd355a972ae))
+
+## 1.2.0 (2021-04-17)
 
 ### Features
 
