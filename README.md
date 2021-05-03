@@ -17,6 +17,7 @@ Of course these are just a few of the existing mods and... well not
 [![Instagram](https://img.shields.io/badge/Instagram-orange?color=%23E4405F&logo=instagram&logoColor=%23FFFFFF&style=for-the-badge)](https://www.instagram.com/lyss4r/ "Instagram")
 [![Github](https://img.shields.io/badge/Github-orange?color=%23181717&logo=github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/lyssar "Github")
 [![CurseForge](https://img.shields.io/badge/CurseForge-orange?color=%236441A4&logo=curseforge&logoColor=%23FFFFFF&style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/lyscrafters "CurseForge")
+[![technicpack](https://img.shields.io/badge/Technicpack-orange?color=%23428bca&logo=technicpack&logoColor=%23FFFFFF&style=for-the-badge)](https://www.technicpack.net/modpack/forge-lyscrafters.1845812 "technicpack")
 
 ## Modlist
 
