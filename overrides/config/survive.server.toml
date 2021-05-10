@@ -7,5 +7,5 @@
 	#-------------------------------------------
 	#Default: [minecraft:overworld,1.0, minecraft:the_nether,1.0, minecraft:the_end,1.0]
 	#-------------------------------------------
-	"Dimensional Temperature Modifier" = ["minecraft:overworld,1.0", "minecraft:the_nether,2.0", "minecraft:the_end,0.25"]
+	"Dimensional Temperature Modifier" = ["minecraft:overworld,1.0", "minecraft:the_nether,1.5", "minecraft:the_end,0.25"]
 

@@ -4,7 +4,7 @@
 	[debug.overlay]
 		#Position of debug overlay
 		#Valid values: TOP_LEFT, TOP_CENTER, TOP_RIGHT, CENTER_LEFT, CENTER, CENTER_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
-		anchor = "TOP_RIGHT"
+		anchor = "TOP_CENTER"
 		#Overlay text size, where 1 is standard-sized text
 		textScale = 0.75
 

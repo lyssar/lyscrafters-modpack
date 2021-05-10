@@ -1,0 +1,10 @@
+{
+  "type": "plaingrinder:grinder",
+  "input": {
+    "tag": "forge:ingots/lead"
+  },
+  "result": {
+    "item": "thermal:lead_dust",
+    "count": 2
+  }
+}

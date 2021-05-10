@@ -3,11 +3,11 @@
 
 	[item.cursed_heart]
 		#Change in difficulty when a cursed heart is used
-		change = 10.0
+		change = 25.0
 
 	[item.enchanted_heart]
 		#Change in difficulty when an enchanted heart is used
-		change = -10.0
+		change = -15.0
 
 	[item.chance_heart]
 		#Change in difficulty when a chance heart is used
@@ -29,7 +29,7 @@
 		#The number of levels required to use a power crystal.
 		levelCost = 3
 		#How much more damage a player deals after using a power crystal.
-		damageBoost = 0.5
+		damageBoost = 2.5
 
 [mob]
 
@@ -41,23 +41,23 @@
 		#MULTI_HALF: Same as MULTI but mobs with more than 20 hp have reduced scaling (bosses, endermen, witches, etc).
 		#MULTI_QUARTER: Same as MULTI_HALF but scaling is reduced further for 20hp+ mobs.
 		#ADD: Flat increase for all mobs, no matter their base hp.
-		modifierMode = "MULTI_HALF"
+		modifierMode = "MULTI_QUARTER"
 		#This modifier affects the hp scale of mobs spawned by spawners, a normal 100 hp boost, will be of 30 using default value
 		spawner = 0.3
 
 		[mob.health.multiplier]
-			passive = 0.375
-			hostile = 0.375
+			passive = 0.175
+			hostile = 0.175
 
 	[mob.damage]
 		#How rapidly mob attack damage rises with difficulty (0 = no damage boost)
-		boostScale = 0.1
+		boostScale = 0.375
 		#The maximum extra attack damage a mob can receive
-		maxBoost = 10.0
+		maxBoost = 100.0
 
 	[mob.xp]
 		#Xp scaling multiplied by difficulty - xp scale of 0.1 with difficulty 10 will give about 11x more xp
-		Boost = 0.03
+		Boost = 0.095
 
 	[mob.blight]
 		#Chance that the mob has of becoming a blight - 0 will effectively deactivate blight
@@ -286,7 +286,8 @@
 #The scale can be any non-negative number, including numbers greater than one.
 [damageScaling]
 	#How sharply damage scales with difficulty.
-	difficultyWeight = 0.04
+	# Default: 0.04
+	difficultyWeight = 1.0
 	#Scale for all damage types which does not have a specific scale defined.
 	#This can have unintended side effects, so it's recommended to leave this at 0.
 	genericScale = 0.0

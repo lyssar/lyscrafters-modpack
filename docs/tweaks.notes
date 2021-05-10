@@ -1,24 +1,22 @@
 # Mods to remove
 
-[√] - improve mobs
-[√] - Epic Fight Mods
-[√] - Chunk Animator
-
 # Tweaks
+
+## Simple Network
+[√] - Das rezept für Sotrage Request Table anpassen,statt nur OAK sollte jede crafting table möglich sein
 
 ## Survive
 
-- purifed water von survive stellt kein Wasser wiederher
+### Nutrtion Config erweitern
+
+- purifed water von survive stellt kein Wasser wiederher, sollte aber konfigurierbar sein
+- Farmers Delight Essen hinzufügen
 
 ## No Punch trees
 
 - BYG Holz nicht abgedeckt
 - Biomes o plenty nicht abgedeckt
 - flint axe kann aus spruce keine planken machen wegen valesian structures Mods
-
-# Ex Compressum
-
-- Disable automation tools
 
 ## Guidebook
 
