@@ -46,6 +46,9 @@
 		#Chance for stealing positive effect/health from enemy.
 		#Range: 0.0 ~ 1.0
 		leech_chance = 0.25
+		#Maximum duration in seconds that effect can have.
+		#Range: 0.1 ~ 600.0
+		maximum_duration = 120.0
 
 	[Enchantments.Dodge]
 		#Makes this enchantment obtainable in survival mode.
@@ -232,6 +235,13 @@
 		#Damage multiplier when both entities are in water.
 		#Range: 1.0 ~ 10.0
 		water_multiplier = 1.5
+
+	[Enchantments.FuseCutter]
+		#Makes this enchantment obtainable in survival mode.
+		is_enabled = true
+		#Maximum distance in blocks from player to entity.
+		#Range: 1.0 ~ 100.0
+		maximum_offset = 6.0
 
 [Curses]
 

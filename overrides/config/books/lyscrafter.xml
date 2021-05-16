@@ -35,27 +35,29 @@
             <page_title>
                 <title>Index</title>
             </page_title>
-            <link ref="START">1. How to get started in LysCrafters 2.0</link>
-            <link indent="8" ref="START:hurryup">1.1. Hurry up or die!</link>
+            <link ref="PROLOG">1. How to get started in LysCrafters 2.0</link>
+            <link ref="START">2. Hurry up or die!</link>
         </section>
     </chapter>
-    <chapter id="START">
+    <chapter id="PROLOG">
         <section>
             <page_title>
-                <title>How to get started in LysCrafters 2.0</title>
+                <title>Welcome in a world of treasures and... mechanics</title>
             </page_title>
-            <p>You can not build standard wooden tools in this mod.</p>
+            <p>You can not build standard wooden tools in this modpack!</p>
             <p>So in order to get going you need to find a few things</p>
             <p>oh and make sure to get it fast because you will die to thirst or hunger!</p>
             <link indent="8" ref="START:hurryup">So HURRY UP!</link>
         </section>
+    </chapter>
+    <chapter id="START">
         <section id="hurryup">
             <page_title>
-                <title>1.1. Hurry up or die!</title>
+                <title>2. Hurry up or die!</title>
             </page_title>
-            <p>You need flint, which comes out of gravel</p>
-            <p>You need sticks which will be dropped from leaves</p>
-            <p>Go and find at least 2 flint and 2 sticks!</p>
+            <p>You need flint, which comes out of gravel or by breaking pebbles on each other.</p>
+            <p>You need sticks which will be dropped from leaves or can be found on the ground</p>
+            <p>Go and find at least 6 flint and 4 sticks!</p>
         </section>
     </chapter>
 </book>

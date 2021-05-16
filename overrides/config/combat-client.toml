@@ -1,0 +1,9 @@
+
+[Customization]
+	#Would you prefer to use the mods main menu panorama
+	"Use Custom Main Menu" = false
+	#Disabling This Would Prevent Enchantment Descriptions From Showing on Enchanted Books
+	"Enable Enchantment Descriptions" = true
+	#Enabling this will allow you to toggle the prone keybind
+	"Should Prone Be Toggled?" = false
+

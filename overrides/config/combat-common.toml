@@ -1,0 +1,39 @@
+
+[Miscellaneous]
+	#
+	#This determines the amount of experience you gain fro breaking crops
+	#Set this to zero to disable this feature
+	#Default: 1
+	#Range: 0 ~ 1000
+	"Experience Gained From Farming" = 1
+	#
+	#The rate at which snow layers will increase
+	#The lower this number, the quicker snow layers will increase
+	#Set this to zero to disable this feature
+	#Default: 10
+	#Range: 0 ~ 1000
+	"Snow Pileup Rate" = 10
+	#Disabling this would prevent the guns in this mod from loading in your game
+	"Load Guns" = false
+	#Disabling this will prevent you from using the fletching table to create arrows from this mod.
+	"Enable Fletching" = true
+	#Enable to see debug messages sent by this mod in the console
+	"Debug Mode" = false
+
+[Battle]
+	#
+	#This is a list of swords that can be classified as double edge and straight weapons.
+	#Entries are in the format "namespace:path"
+	#Default: []
+	"Double Edge and Straight Weapons" = ["combat:bronze_katana", "combat:steel_katana", "combat:pasquem_katana", "combat:pelgan_katana", "combat:lozyne_katana", "combat:serable_katana", "combat:etherion_katana", "combat:blood_katana", "combat:soul_katana", "combat:bronze_rapier", "combat:steel_rapier", "combat:pasquem_rapier", "combat:pelgan_rapier", "combat:lozyne_rapier", "combat:serable_rapier", "combat:etherion_rapier", "combat:blood_rapier", "combat:soul_rapier"]
+	#
+	#This is a list of swords that can be classified as single edge and curved weapons.
+	#Entries are in the format "namespace:path"
+	#Default: ["combat:bronze_katana", "combat:steel_katana", "combat:pasquem_katana", "combat:pelgan_katana", "combat:lozyne_katana", "combat:serable_katana", "combat:etherion_katana", "combat:blood_katana", "combat:soul_katana"]
+	"Single Edge and Curved Weapons" = ["combat:bronze_katana", "combat:steel_katana", "combat:pasquem_katana", "combat:pelgan_katana", "combat:lozyne_katana", "combat:serable_katana", "combat:etherion_katana", "combat:blood_katana", "combat:soul_katana", "combat:bronze_rapier", "combat:steel_rapier", "combat:pasquem_rapier", "combat:pelgan_rapier", "combat:lozyne_rapier", "combat:serable_rapier", "combat:etherion_rapier", "combat:blood_rapier", "combat:soul_rapier"]
+	#
+	#This is a list of swords that can be classified as edgeless and thrusting weapons.
+	#Entries are in the format "namespace:path"
+	#Default: ["combat:bronze_katana", "combat:steel_katana", "combat:pasquem_katana", "combat:pelgan_katana", "combat:lozyne_katana", "combat:serable_katana", "combat:etherion_katana", "combat:blood_katana", "combat:soul_katana", "combat:bronze_rapier", "combat:steel_rapier", "combat:pasquem_rapier", "combat:pelgan_rapier", "combat:lozyne_rapier", "combat:serable_rapier", "combat:etherion_rapier", "combat:blood_rapier", "combat:soul_rapier"]
+	"Edgeless and Thrusting Weapons" = ["combat:bronze_katana", "combat:steel_katana", "combat:pasquem_katana", "combat:pelgan_katana", "combat:lozyne_katana", "combat:serable_katana", "combat:etherion_katana", "combat:blood_katana", "combat:soul_katana", "combat:bronze_rapier", "combat:steel_rapier", "combat:pasquem_rapier", "combat:pelgan_rapier", "combat:lozyne_rapier", "combat:serable_rapier", "combat:etherion_rapier", "combat:blood_rapier", "combat:soul_rapier"]
+

@@ -1,0 +1,44 @@
+
+["Leveling Stats"]
+	#Disabling this will disable any effects from the leveling system
+	#NOTE: The amount of a stat you recieve at certain level is ((currentLevel/maxLevel)*maxLevelModifier)+defaultModifier where currentLevel is the level you are currently at, maxLevel is the maximum level the stat can
+	#reach, maxLevelModifer is the maximum you can add to your stat at the max level and defaultModifier is the amount added or removed by default
+	"Enable Leveling System" = true
+	#
+	#The base amount of experience taken for each upgrade
+	#Default: 7
+	#Range: 1 ~ 1000
+	"Base Experience Cost" = 7
+	#
+	#The amount of experience added to the base cost taken for each upgrade
+	#This number is multiplied by the current level of the stat to determine the cost of the next upgrade
+	#Default: 2
+	#Range: 1 ~ 1000
+	"Experience Cost Step" = 2
+	#
+	#The base amount of experience taken for each upgrade
+	#Default: 10
+	#Range: 1 ~ 1000
+	"Base Experience For Level Cost" = 10
+	#
+	#The amount of experience added to the base cost taken for each upgrade
+	#This number is multiplied by the current level of the stat to determine the cost of the next upgrade
+	#Default: 10
+	#Range: 1 ~ 1000
+	"Experience Cost For Level Step" = 10
+	#Should all mobs be kept at level one? Do you really want them to stay vanilla?
+	"Keep Mobs At Level One" = false
+	#
+	#The base amount of experience taken for each upgrade
+	#Default: 2500
+	#Range: 1 ~ 1000
+	"Distance From Spawn For Level Increase" = 1000
+	#
+	#The amount of experience added to the base cost taken for each upgrade
+	#This number is multiplied by the current level of the stat to determine the cost of the next upgrade
+	#Default: 1000
+	#Range: 1 ~ 1000
+	"Distance From Spawn For Level Increase Step" = 1000
+	#Should players be able to take all the experience from any player they kill?
+	"Take Experience From Killed Players" = true
+

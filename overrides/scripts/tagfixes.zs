@@ -7,7 +7,6 @@
 <tag:items:forge:tools/shovels>.add(<item:create_stuff_additions:rose_quartz_shovel>);
 <tag:items:forge:tools/shovels>.add(<item:create_stuff_additions:shadow_steel_shovel>);
 <tag:items:forge:tools/shovels>.add(<item:endrem:end_crystal_shovel>);
-<tag:items:forge:tools/shovels>.add(<item:notreepunching:flint_shovel>);
 <tag:items:forge:tools/shovels>.add(<item:theabyss:bone_shovel>);
 <tag:items:forge:tools/shovels>.add(<item:theabyss:fusionshovel>);
 <tag:items:forge:tools/shovels>.add(<item:theabyss:garnit_shovel>);
