@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-alpha-3.0](https://github.com/lyssar/lyscrafters-modpack/compare/v2.0.0-alpha2...v2.0.0-alpha-3.0) (2021-05-16)
+
+
+### Features
+
+* Added mod updates and new mods like ice and fire ([8cac44d](https://github.com/lyssar/lyscrafters-modpack/commit/8cac44d0062bfc53dedd2a5a327060a4c60eb7ee))
+* updated all mods ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+
 ## 2.0.0-alpha1 (2021-04-25)
 
 ### Features
