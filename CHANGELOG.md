@@ -8,7 +8,21 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * Added mod updates and new mods like ice and fire ([8cac44d](https://github.com/lyssar/lyscrafters-modpack/commit/8cac44d0062bfc53dedd2a5a327060a4c60eb7ee))
-* updated all mods ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* updated all mods  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **removed** removed valhesian structures  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* replaced no punch trees with natural-progression  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* replaced scaling health with C.O.M.B.A.T  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **removed** terra forged due to mod issues and zero support from the developers  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added mowziesmobs for more hostile mob variety  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added new dimension extension Moolands  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added new dimension extension twilight forest  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added Aetherite as overworld alternative for Netherite  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added polymorph to tackle mod overrides better  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added Corail Woodcutter  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added Ice and Fire: Dragons mod  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added cheesemaking  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added Gemspork   ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
+* **new** added Colds: Easy Paxel  ([fde94e1](https://github.com/lyssar/lyscrafters-modpack/commit/fde94e1e946c51eb6a0368125c40cf2ad8b0a2b5))
 
 ## 2.0.0-alpha1 (2021-04-25)
 
